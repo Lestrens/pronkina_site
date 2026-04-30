@@ -1,0 +1,8 @@
+node_modules
+package.json
+package-lock.json
+gulpfile.js
+src/index.html
+src/img/logo.svg
+src/img/photo-1.png
+src/sass/style.sass
